@@ -1,1 +1,1 @@
-# ecosistema-automatizacion-ia
+# Dashboard de control: https://airtable.com/invite/l?inviteId=invlbVfPTsrAnfgaT&inviteToken=c5c08829165d7937d734b956515bb9528ff65e9d5b0a7f1157416d55426c84d3&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts 
